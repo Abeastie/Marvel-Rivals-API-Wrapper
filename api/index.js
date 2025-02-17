@@ -6,7 +6,7 @@ const port = 8080;
 
 const app = express();
 
-const RIVALS_API_ENDPOINT = "https://marvelrivalsapi.com/api/v1/"
+const RIVALS_API_ENDPOINT = process.env.RIVALS_API_ENDPOINT
 const API_TOKEN = process.env.RIVALS_API_TOKEN; 
 const cache = new Map();
 
@@ -29,11 +29,11 @@ async function getPlayerData(username) {
 
     // Check if data is fresh (less than 5 minutes old)
     if (cachedData && now - cachedData.timestamp < 15 * 60 * 1000) {
-        console.log(`Data for ${username} is fresh returning cached data`);
+        // console.log(`Data for ${username} is fresh returning cached data`);
         return cachedData.data;
     }
     try {
-        console.log(`Data for ${username} is stale refreshing now`)
+        // console.log(`Data for ${username} is stale refreshing now`)
         const updated = await updatePlayer(username)
         if (updated) {
     
@@ -75,6 +75,7 @@ app.get("/rank/:username", async (req, res) => {
     try {
             const player_data = await getPlayerData(username);
             const rank = convertRankNo(player_data.player.rank.rank);
+            // res.setHeader("Cache-Control", "s-maxage=600, stale-while-revalidate=1800"); // Cache for 10 minutes, allow stale data for 30 mins
             res.send(rank);
     } 
     catch (error) {
@@ -88,6 +89,7 @@ app.get("/winloss/:username", async (req, res) => {
     try {
             const player_data = await getPlayerData(username);
             const result = calculateWinLoss(player_data);
+            // res.setHeader("Cache-Control", "s-maxage=600, stale-while-revalidate=1800"); // Cache for 10 minutes, allow stale data for 30 mins
             res.send(result);
     } 
     catch (error) {
