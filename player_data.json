@@ -1,0 +1,2928 @@
+{
+    "uid": 919659830,
+    "name": "NubNubb5",
+    "updates": {
+      "info_update_time": "1/10/2025, 3:03:27 AM",
+      "last_history_update": "2/15/2025, 7:27:57 PM",
+      "last_inserted_match": "2/15/2025, 7:01:20 PM",
+      "last_update_request": "2/15/2025, 7:27:56 PM"
+    },
+    "player": {
+      "uid": 919659830,
+      "level": "51",
+      "name": "NubNubb5",
+      "icon": {
+        "player_icon_id": "31041202",
+        "player_icon": "/players/heads/player_head_31041202.png",
+        "banner": "/premium/nameplates/31041202_banner.webp?expires=1739681300&signature=21f6ddf0211c4799c23a259fada55bb1bc8fc5bdc431ac1ad4b3cf57d99ff4ca"
+      },
+      "rank": {
+        "rank": "Celestial III",
+        "image": "/ranked/celestial.png",
+        "color": "#FE5A1D"
+      },
+      "team": {
+        "club_team_id": "",
+        "club_team_mini_name": "",
+        "club_team_type": "0"
+      },
+      "info": {
+        "completed_achievements": "116",
+        "login_os": "PC",
+        "rank_game_season": {
+          "1001001": {
+            "rank_game_id": 1,
+            "level": 16,
+            "rank_score": 4549.217734906763,
+            "max_level": 17,
+            "max_rank_score": 4619.101053439587,
+            "update_time": 1736486693,
+            "win_count": 141,
+            "protect_score": 0,
+            "diff_score": -21.868168846741355
+          },
+          "1001002": {
+            "rank_game_id": 2,
+            "level": 19,
+            "rank_score": 4798.909857615295,
+            "max_level": 19,
+            "max_rank_score": 4866.172983037152,
+            "update_time": 1739664894,
+            "win_count": 192,
+            "protect_score": 0,
+            "diff_score": -22.540136183011782
+          }
+        }
+      }
+    },
+    "isPrivate": false,
+    "overall_stats": {
+      "total_matches": 489,
+      "total_wins": 252,
+      "unranked": {
+        "total_matches": 104,
+        "total_wins": 56,
+        "total_assists": 296,
+        "total_deaths": 509,
+        "total_kills": 1712,
+        "total_time_played": "15h 36m 0s",
+        "total_time_played_raw": 56160.81825685501
+      },
+      "ranked": {
+        "total_matches": 378,
+        "total_wins": 192,
+        "total_assists": 937,
+        "total_deaths": 2695,
+        "total_kills": 7904,
+        "total_time_played": "76h 12m 37s",
+        "total_time_played_raw": 274357.3855192661
+      }
+    },
+    "match_history": [
+      {
+        "match_uid": "4890743_1739664080_101_11001_10",
+        "map_id": 1236,
+        "map_thumbnail": "/rivals/maps/map_1236.png",
+        "duration": 588.403146982193,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 608756847,
+        "svp_uid": 2040436720,
+        "match_time_stamp": 1739664894,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 0,
+          "1": 2
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1027,
+          "kills": 7,
+          "deaths": 9,
+          "assists": 3,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": -22.540136183011782,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4798.909857615295
+        }
+      },
+      {
+        "match_uid": "4891563_1739663881_384_11001_10",
+        "map_id": 1240,
+        "map_thumbnail": "/rivals/maps/map_1240.png",
+        "duration": 613.4242167472839,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1376194551,
+        "svp_uid": 1540264191,
+        "match_time_stamp": 1739664583,
+        "play_mode_id": 0,
+        "game_mode_id": 1,
+        "score_info": null,
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 1,
+          "deaths": 2,
+          "assists": 0,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": true,
+          "camp": 1,
+          "score_change": -25.838449297654734,
+          "level": 1,
+          "new_level": 1,
+          "new_score": 3594.086944627126
+        }
+      },
+      {
+        "match_uid": "4891186_1739663160_808_11001_10",
+        "map_id": 1148,
+        "map_thumbnail": "/rivals/maps/map_1148.png",
+        "duration": 316.0231759548187,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 826408568,
+        "svp_uid": 693687886,
+        "match_time_stamp": 1739663568,
+        "play_mode_id": 0,
+        "game_mode_id": 1,
+        "score_info": null,
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 8,
+          "deaths": 3,
+          "assists": 3,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": -20.40390982122244,
+          "level": 1,
+          "new_level": 1,
+          "new_score": 3619.9253939247806
+        }
+      },
+      {
+        "match_uid": "6714102_1739646997_56_11001_10",
+        "map_id": 1290,
+        "map_thumbnail": "/rivals/maps/map_1290.png",
+        "duration": 856.0994176864624,
+        "season": 1,
+        "winner_side": 0,
+        "mvp_uid": 710725781,
+        "svp_uid": 1846846864,
+        "match_time_stamp": 1739648108,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 2,
+          "1": 1
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 24,
+          "deaths": 7,
+          "assists": 6,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": -20.07714055985798,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4821.449993798306
+        }
+      },
+      {
+        "match_uid": "4890773_1739645173_12_11001_10",
+        "map_id": 1230,
+        "map_thumbnail": "/rivals/maps/map_1230.png",
+        "duration": 1016.261620759964,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 324533145,
+        "svp_uid": 1720760439,
+        "match_time_stamp": 1739646626,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 3,
+          "1": 4
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 26,
+          "deaths": 13,
+          "assists": 11,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": -19.758594103144787,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4841.527134358164
+        }
+      },
+      {
+        "match_uid": "6713795_1739643156_219_11001_10",
+        "map_id": 1290,
+        "map_thumbnail": "/rivals/maps/map_1290.png",
+        "duration": 1270.6716594696045,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1848553814,
+        "svp_uid": 127381079,
+        "match_time_stamp": 1739644864,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 4,
+          "1": 5
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 34,
+          "deaths": 11,
+          "assists": 14,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 20.82504550393878,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4861.285728461309
+        }
+      },
+      {
+        "match_uid": "6713572_1739641950_29_11001_10",
+        "map_id": 1291,
+        "map_thumbnail": "/rivals/maps/map_1291.png",
+        "duration": 708.1007781028748,
+        "season": 1,
+        "winner_side": 0,
+        "mvp_uid": 399740231,
+        "svp_uid": 1034553050,
+        "match_time_stamp": 1739642956,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 3,
+          "1": 1
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1030,
+          "kills": 10,
+          "deaths": 9,
+          "assists": 3,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": -21.91967429631586,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4840.46068295737
+        }
+      },
+      {
+        "match_uid": "4890922_1739640590_169_11001_10",
+        "map_id": 1291,
+        "map_thumbnail": "/rivals/maps/map_1291.png",
+        "duration": 796.6887745857239,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 380605676,
+        "svp_uid": 830486037,
+        "match_time_stamp": 1739641657,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 2,
+          "1": 3
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 29,
+          "deaths": 7,
+          "assists": 9,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 19.070251006306535,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4862.380357253686
+        }
+      },
+      {
+        "match_uid": "4891018_1739639135_109_11001_10",
+        "map_id": 1231,
+        "map_thumbnail": "/rivals/maps/map_1231.png",
+        "duration": 909.9254460334778,
+        "season": 1,
+        "winner_side": 0,
+        "mvp_uid": 380605676,
+        "svp_uid": 1091943991,
+        "match_time_stamp": 1739640324,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 3,
+          "1": 0
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1037,
+          "kills": 25,
+          "deaths": 7,
+          "assists": 3,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": 18.75959017526111,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4843.31010624738
+        }
+      },
+      {
+        "match_uid": "6713919_1739638196_70_11001_10",
+        "map_id": 1236,
+        "map_thumbnail": "/rivals/maps/map_1236.png",
+        "duration": 561.3449125289917,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1614811276,
+        "svp_uid": 1034553050,
+        "match_time_stamp": 1739639043,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 1,
+          "1": 2
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 7,
+          "deaths": 8,
+          "assists": 4,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": -20.065248311326286,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4824.550516072119
+        }
+      },
+      {
+        "match_uid": "6713396_1739637432_429_11001_10",
+        "map_id": 1245,
+        "map_thumbnail": "/rivals/maps/map_1245.png",
+        "duration": 415.12213230133057,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1034553050,
+        "svp_uid": 977491416,
+        "match_time_stamp": 1739638112,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 0,
+          "1": 1
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 3,
+          "deaths": 8,
+          "assists": 3,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": -21.557218653707423,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4844.615764383445
+        }
+      },
+      {
+        "match_uid": "6713462_1739635976_38_11001_10",
+        "map_id": 1288,
+        "map_thumbnail": "/rivals/maps/map_1288.png",
+        "duration": 880.5114455223083,
+        "season": 1,
+        "winner_side": 0,
+        "mvp_uid": 1635244435,
+        "svp_uid": 1564219459,
+        "match_time_stamp": 1739637142,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 2,
+          "1": 1
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 32,
+          "deaths": 11,
+          "assists": 8,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": 20.40388676112525,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4866.172983037152
+        }
+      },
+      {
+        "match_uid": "4891091_1739634929_1712_11001_10",
+        "map_id": 1148,
+        "map_thumbnail": "/rivals/maps/map_1148.png",
+        "duration": 600.0375256538391,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 919659830,
+        "svp_uid": 1666693117,
+        "match_time_stamp": 1739635623,
+        "play_mode_id": 0,
+        "game_mode_id": 1,
+        "score_info": null,
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 28,
+          "deaths": 4,
+          "assists": 5,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 20.53242016248032,
+          "level": 1,
+          "new_level": 1,
+          "new_score": 3640.3293037460035
+        }
+      },
+      {
+        "match_uid": "4890849_1739501295_409_11001_10",
+        "map_id": 1230,
+        "map_thumbnail": "/rivals/maps/map_1230.png",
+        "duration": 892.9619221687317,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1390760018,
+        "svp_uid": 919659830,
+        "match_time_stamp": 1739502465,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 2,
+          "1": 3
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 25,
+          "deaths": 7,
+          "assists": 2,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": -19.502875895990655,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4845.769096276027
+        }
+      },
+      {
+        "match_uid": "6713552_1739499818_513_11001_10",
+        "map_id": 1236,
+        "map_thumbnail": "/rivals/maps/map_1236.png",
+        "duration": 725.158478975296,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 284784949,
+        "svp_uid": 609040839,
+        "match_time_stamp": 1739500829,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 1,
+          "1": 2
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1037,
+          "kills": 21,
+          "deaths": 5,
+          "assists": 0,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 20.92591306309987,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4865.271972172018
+        }
+      },
+      {
+        "match_uid": "6714116_1739498292_233_11001_10",
+        "map_id": 1267,
+        "map_thumbnail": "/rivals/maps/map_1267.png",
+        "duration": 993.5120961666107,
+        "season": 1,
+        "winner_side": 0,
+        "mvp_uid": 383174129,
+        "svp_uid": 427723936,
+        "match_time_stamp": 1739499545,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 3,
+          "1": 2
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 28,
+          "deaths": 13,
+          "assists": 9,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 0,
+          "score_change": 20.259569890406965,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4844.346059108918
+        }
+      },
+      {
+        "match_uid": "4890845_1739497327_382_11001_10",
+        "map_id": 1230,
+        "map_thumbnail": "/rivals/maps/map_1230.png",
+        "duration": 524.4674561023712,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1059320635,
+        "svp_uid": 979720638,
+        "match_time_stamp": 1739498115,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 1,
+          "1": 2
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 21,
+          "deaths": 1,
+          "assists": 2,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 19.823265668755084,
+          "level": 19,
+          "new_level": 19,
+          "new_score": 4824.086489218511
+        }
+      },
+      {
+        "match_uid": "6713997_1739496534_83_11001_10",
+        "map_id": 1230,
+        "map_thumbnail": "/rivals/maps/map_1230.png",
+        "duration": 329.22904229164124,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1827256220,
+        "svp_uid": 341637926,
+        "match_time_stamp": 1739497128,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 0,
+          "1": 1
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 8,
+          "deaths": 3,
+          "assists": 3,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 20.721688958861705,
+          "level": 18,
+          "new_level": 19,
+          "new_score": 4804.263223549756
+        }
+      },
+      {
+        "match_uid": "4891236_1739495655_397_11001_10",
+        "map_id": 1267,
+        "map_thumbnail": "/rivals/maps/map_1267.png",
+        "duration": 305.9554018974304,
+        "season": 1,
+        "winner_side": 1,
+        "mvp_uid": 1415869870,
+        "svp_uid": 955981517,
+        "match_time_stamp": 1739496220,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 0,
+          "1": 1
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1049,
+          "kills": 6,
+          "deaths": 1,
+          "assists": 0,
+          "is_win": {
+            "score": 1,
+            "is_win": true
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": 22.730057876734463,
+          "level": 18,
+          "new_level": 18,
+          "new_score": 4783.541534590894
+        }
+      },
+      {
+        "match_uid": "6714247_1739494414_9_11001_10",
+        "map_id": 1291,
+        "map_thumbnail": "/rivals/maps/map_1291.png",
+        "duration": 871.1327896118164,
+        "season": 1,
+        "winner_side": 0,
+        "mvp_uid": 831813139,
+        "svp_uid": 512588019,
+        "match_time_stamp": 1739495563,
+        "play_mode_id": 0,
+        "game_mode_id": 2,
+        "score_info": {
+          "0": 3,
+          "1": 2
+        },
+        "player_performance": {
+          "player_uid": 919659830,
+          "hero_id": 1041,
+          "kills": 19,
+          "deaths": 9,
+          "assists": 9,
+          "is_win": {
+            "score": 0,
+            "is_win": false
+          },
+          "disconnected": false,
+          "camp": 1,
+          "score_change": -19.88841440091437,
+          "level": 19,
+          "new_level": 18,
+          "new_score": 4760.81147671416
+        }
+      }
+    ],
+    "rank_history": [
+      {
+        "match_time_stamp": 1739497128,
+        "level_progression": {
+          "from": 18,
+          "to": 19
+        },
+        "score_progression": {
+          "add_score": 20.721688958861705,
+          "total_score": 4804.263223549756
+        }
+      },
+      {
+        "match_time_stamp": 1739495563,
+        "level_progression": {
+          "from": 19,
+          "to": 18
+        },
+        "score_progression": {
+          "add_score": -19.88841440091437,
+          "total_score": 4760.81147671416
+        }
+      },
+      {
+        "match_time_stamp": 1739240349,
+        "level_progression": {
+          "from": 18,
+          "to": 19
+        },
+        "score_progression": {
+          "add_score": 20.865049266454662,
+          "total_score": 4800.150093679017
+        }
+      },
+      {
+        "match_time_stamp": 1738976712,
+        "level_progression": {
+          "from": 17,
+          "to": 18
+        },
+        "score_progression": {
+          "add_score": 23.214972985596432,
+          "total_score": 4717.378704827712
+        }
+      },
+      {
+        "match_time_stamp": 1738948387,
+        "level_progression": {
+          "from": 16,
+          "to": 17
+        },
+        "score_progression": {
+          "add_score": 22.623866364949208,
+          "total_score": 4606.566334069504
+        }
+      },
+      {
+        "match_time_stamp": 1738900697,
+        "level_progression": {
+          "from": 15,
+          "to": 16
+        },
+        "score_progression": {
+          "add_score": 25.618143032097578,
+          "total_score": 4511.666299233287
+        }
+      },
+      {
+        "match_time_stamp": 1738898863,
+        "level_progression": {
+          "from": 16,
+          "to": 15
+        },
+        "score_progression": {
+          "add_score": -20.88947707828629,
+          "total_score": 4458.8909845336775
+        }
+      },
+      {
+        "match_time_stamp": 1738891325,
+        "level_progression": {
+          "from": 17,
+          "to": 16
+        },
+        "score_progression": {
+          "add_score": -20.719346895642957,
+          "total_score": 4560.5018647376755
+        }
+      },
+      {
+        "match_time_stamp": 1738888320,
+        "level_progression": {
+          "from": 16,
+          "to": 17
+        },
+        "score_progression": {
+          "add_score": 21.93997442500313,
+          "total_score": 4604.164874295051
+        }
+      },
+      {
+        "match_time_stamp": 1738545082,
+        "level_progression": {
+          "from": 17,
+          "to": 16
+        },
+        "score_progression": {
+          "add_score": -22.152482387728014,
+          "total_score": 4569.014172898315
+        }
+      },
+      {
+        "match_time_stamp": 1738393916,
+        "level_progression": {
+          "from": 16,
+          "to": 17
+        },
+        "score_progression": {
+          "add_score": 20.621744055223644,
+          "total_score": 4604.393945737949
+        }
+      },
+      {
+        "match_time_stamp": 1738307508,
+        "level_progression": {
+          "from": 15,
+          "to": 16
+        },
+        "score_progression": {
+          "add_score": 23.544510286911645,
+          "total_score": 4510.836287804586
+        }
+      },
+      {
+        "match_time_stamp": 1738305198,
+        "level_progression": {
+          "from": 16,
+          "to": 15
+        },
+        "score_progression": {
+          "add_score": -22.971267965369407,
+          "total_score": 4462.4576514938535
+        }
+      },
+      {
+        "match_time_stamp": 1738269875,
+        "level_progression": {
+          "from": 15,
+          "to": 16
+        },
+        "score_progression": {
+          "add_score": 26.423185426332566,
+          "total_score": 4519.948322636387
+        }
+      },
+      {
+        "match_time_stamp": 1738259623,
+        "level_progression": {
+          "from": 16,
+          "to": 15
+        },
+        "score_progression": {
+          "add_score": -20.964423473261377,
+          "total_score": 4457.595581145128
+        }
+      },
+      {
+        "match_time_stamp": 1738037736,
+        "level_progression": {
+          "from": 15,
+          "to": 16
+        },
+        "score_progression": {
+          "add_score": 29.01890308960901,
+          "total_score": 4523.508721584641
+        }
+      },
+      {
+        "match_time_stamp": 1737867771,
+        "level_progression": {
+          "from": 14,
+          "to": 15
+        },
+        "score_progression": {
+          "add_score": 22.681511355332077,
+          "total_score": 4415.348805182567
+        }
+      },
+      {
+        "match_time_stamp": 1737865768,
+        "level_progression": {
+          "from": 15,
+          "to": 14
+        },
+        "score_progression": {
+          "add_score": -22.404438172008668,
+          "total_score": 4368.749426939112
+        }
+      },
+      {
+        "match_time_stamp": 1737854302,
+        "level_progression": {
+          "from": 14,
+          "to": 15
+        },
+        "score_progression": {
+          "add_score": 25.538918685923818,
+          "total_score": 4422.823345604543
+        }
+      },
+      {
+        "match_time_stamp": 1737704306,
+        "level_progression": {
+          "from": 13,
+          "to": 14
+        },
+        "score_progression": {
+          "add_score": 23.83501342380896,
+          "total_score": 4300.955510762444
+        }
+      },
+      {
+        "match_time_stamp": 1737694813,
+        "level_progression": {
+          "from": 14,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": -19.044552851270055,
+          "total_score": 4268.921674987486
+        }
+      },
+      {
+        "match_time_stamp": 1737689201,
+        "level_progression": {
+          "from": 13,
+          "to": 14
+        },
+        "score_progression": {
+          "add_score": 26.4026481275514,
+          "total_score": 4320.433996692868
+        }
+      },
+      {
+        "match_time_stamp": 1737508020,
+        "level_progression": {
+          "from": 12,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": 29.707384795492544,
+          "total_score": 4213.399732705789
+        }
+      },
+      {
+        "match_time_stamp": 1737503144,
+        "level_progression": {
+          "from": 13,
+          "to": 12
+        },
+        "score_progression": {
+          "add_score": -19.182890589409908,
+          "total_score": 4164.732253674126
+        }
+      },
+      {
+        "match_time_stamp": 1737430991,
+        "level_progression": {
+          "from": 14,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": -20.33293938386305,
+          "total_score": 4268.691346646308
+        }
+      },
+      {
+        "match_time_stamp": 1737426742,
+        "level_progression": {
+          "from": 13,
+          "to": 14
+        },
+        "score_progression": {
+          "add_score": 23.816115814522163,
+          "total_score": 4303.807688444273
+        }
+      },
+      {
+        "match_time_stamp": 1737313371,
+        "level_progression": {
+          "from": 14,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": -17.410648896903695,
+          "total_score": 4258.490884187412
+        }
+      },
+      {
+        "match_time_stamp": 1737304806,
+        "level_progression": {
+          "from": 13,
+          "to": 14
+        },
+        "score_progression": {
+          "add_score": 27.82725230613414,
+          "total_score": 4310.912893108635
+        }
+      },
+      {
+        "match_time_stamp": 1737224699,
+        "level_progression": {
+          "from": 14,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": -19.888721771599194,
+          "total_score": 4267.225518628983
+        }
+      },
+      {
+        "match_time_stamp": 1737222792,
+        "level_progression": {
+          "from": 13,
+          "to": 14
+        },
+        "score_progression": {
+          "add_score": 24.50000885045756,
+          "total_score": 4308.257014510394
+        }
+      },
+      {
+        "match_time_stamp": 1736916375,
+        "level_progression": {
+          "from": 12,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": 34.28778463753497,
+          "total_score": 4217.144306359398
+        }
+      },
+      {
+        "match_time_stamp": 1736912224,
+        "level_progression": {
+          "from": 11,
+          "to": 12
+        },
+        "score_progression": {
+          "add_score": 29.52954437063954,
+          "total_score": 4123.070396187646
+        }
+      },
+      {
+        "match_time_stamp": 1736906695,
+        "level_progression": {
+          "from": 12,
+          "to": 11
+        },
+        "score_progression": {
+          "add_score": -13.502962810099689,
+          "total_score": 4069.226862144752
+        }
+      },
+      {
+        "match_time_stamp": 1736825255,
+        "level_progression": {
+          "from": 13,
+          "to": 12
+        },
+        "score_progression": {
+          "add_score": -20.991853540032025,
+          "total_score": 4153.393645999137
+        }
+      },
+      {
+        "match_time_stamp": 1736821060,
+        "level_progression": {
+          "from": 12,
+          "to": 13
+        },
+        "score_progression": {
+          "add_score": 27.533604115687012,
+          "total_score": 4214.774865198391
+        }
+      },
+      {
+        "match_time_stamp": 1736813741,
+        "level_progression": {
+          "from": 11,
+          "to": 12
+        },
+        "score_progression": {
+          "add_score": 28.374493766756586,
+          "total_score": 4124.208137476002
+        }
+      },
+      {
+        "match_time_stamp": 1736651113,
+        "level_progression": {
+          "from": 10,
+          "to": 11
+        },
+        "score_progression": {
+          "add_score": 32.60353220316347,
+          "total_score": 4005.9441080385145
+        }
+      },
+      {
+        "match_time_stamp": 1736646716,
+        "level_progression": {
+          "from": 9,
+          "to": 10
+        },
+        "score_progression": {
+          "add_score": 30.568173907535765,
+          "total_score": 3913.692055693713
+        }
+      }
+    ],
+    "hero_matchups": [
+      {
+        "hero_id": 1026,
+        "hero_name": "black panther",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/black-panther-headbig-0.webp",
+        "matches": 31,
+        "wins": 16,
+        "win_rate": "51.61"
+      },
+      {
+        "hero_id": 1034,
+        "hero_name": "iron man",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/iron-man-headbig-0.webp",
+        "matches": 9,
+        "wins": 6,
+        "win_rate": "66.67"
+      },
+      {
+        "hero_id": 1045,
+        "hero_name": "namor",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/namor-headbig-0.webp",
+        "matches": 70,
+        "wins": 35,
+        "win_rate": "50.00"
+      },
+      {
+        "hero_id": 1039,
+        "hero_name": "thor",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/thor-headbig-0.webp",
+        "matches": 65,
+        "wins": 30,
+        "win_rate": "46.15"
+      },
+      {
+        "hero_id": 1021,
+        "hero_name": "hawkeye",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/hawkeye-headbig-0.webp",
+        "matches": 15,
+        "wins": 6,
+        "win_rate": "40.00"
+      },
+      {
+        "hero_id": 1042,
+        "hero_name": "peni parker",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/peni-parker-headbig-0.webp",
+        "matches": 26,
+        "wins": 9,
+        "win_rate": "34.62"
+      },
+      {
+        "hero_id": 1041,
+        "hero_name": "winter soldier",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/winter-soldier-headbig-0.webp",
+        "matches": 113,
+        "wins": 62,
+        "win_rate": "54.87"
+      },
+      {
+        "hero_id": 1052,
+        "hero_name": "iron fist",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/iron-fist-headbig-0.webp",
+        "matches": 17,
+        "wins": 5,
+        "win_rate": "29.41"
+      },
+      {
+        "hero_id": 1035,
+        "hero_name": "venom",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/venom-headbig-0.webp",
+        "matches": 37,
+        "wins": 16,
+        "win_rate": "43.24"
+      },
+      {
+        "hero_id": 1048,
+        "hero_name": "psylocke",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/psylocke-headbig-0.webp",
+        "matches": 75,
+        "wins": 39,
+        "win_rate": "52.00"
+      },
+      {
+        "hero_id": 1016,
+        "hero_name": "loki",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/loki-headbig-0.webp",
+        "matches": 56,
+        "wins": 33,
+        "win_rate": "58.93"
+      },
+      {
+        "hero_id": 1050,
+        "hero_name": "invisible woman",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/invisible-woman-headbig-0.webp",
+        "matches": 178,
+        "wins": 84,
+        "win_rate": "47.19"
+      },
+      {
+        "hero_id": 1038,
+        "hero_name": "scarlet witch",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/scarlet-witch-headbig-0.webp",
+        "matches": 9,
+        "wins": 6,
+        "win_rate": "66.67"
+      },
+      {
+        "hero_id": 1032,
+        "hero_name": "squirrel girl",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/squirrel-girl-headbig-0.webp",
+        "matches": 28,
+        "wins": 9,
+        "win_rate": "32.14"
+      },
+      {
+        "hero_id": 1029,
+        "hero_name": "magik",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/magik-headbig-0.webp",
+        "matches": 39,
+        "wins": 22,
+        "win_rate": "56.41"
+      },
+      {
+        "hero_id": 1049,
+        "hero_name": "wolverine",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/wolverine-headbig-0.webp",
+        "matches": 33,
+        "wins": 14,
+        "win_rate": "42.42"
+      },
+      {
+        "hero_id": null,
+        "hero_name": "Unknown",
+        "hero_class": "Unknown",
+        "hero_thumbnail": null,
+        "matches": 3,
+        "wins": 0,
+        "win_rate": "0.00"
+      },
+      {
+        "hero_id": 1023,
+        "hero_name": "rocket raccoon",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/rocket-raccoon-headbig-0.webp",
+        "matches": 132,
+        "wins": 70,
+        "win_rate": "53.03"
+      },
+      {
+        "hero_id": 1022,
+        "hero_name": "captain america",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/captain-america-headbig-0.webp",
+        "matches": 28,
+        "wins": 12,
+        "win_rate": "42.86"
+      },
+      {
+        "hero_id": 1018,
+        "hero_name": "doctor strange",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/doctor-strange-headbig-0.webp",
+        "matches": 228,
+        "wins": 121,
+        "win_rate": "53.07"
+      },
+      {
+        "hero_id": 1043,
+        "hero_name": "star-lord",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/star-lord-headbig-0.webp",
+        "matches": 43,
+        "wins": 20,
+        "win_rate": "46.51"
+      },
+      {
+        "hero_id": 1014,
+        "hero_name": "the punisher",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/the-punisher-headbig-0.webp",
+        "matches": 93,
+        "wins": 40,
+        "win_rate": "43.01"
+      },
+      {
+        "hero_id": 1015,
+        "hero_name": "storm",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/storm-headbig-0.webp",
+        "matches": 46,
+        "wins": 30,
+        "win_rate": "65.22"
+      },
+      {
+        "hero_id": 1037,
+        "hero_name": "magneto",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/magneto-headbig-0.webp",
+        "matches": 133,
+        "wins": 71,
+        "win_rate": "53.38"
+      },
+      {
+        "hero_id": 1020,
+        "hero_name": "mantis",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/mantis-headbig-0.webp",
+        "matches": 65,
+        "wins": 29,
+        "win_rate": "44.62"
+      },
+      {
+        "hero_id": 1033,
+        "hero_name": "black widow",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/black-widow-headbig-0.webp",
+        "matches": 7,
+        "wins": 2,
+        "win_rate": "28.57"
+      },
+      {
+        "hero_id": 1047,
+        "hero_name": "jeff the land shark",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/jeff-the-land-shark-headbig-0.webp",
+        "matches": 20,
+        "wins": 10,
+        "win_rate": "50.00"
+      },
+      {
+        "hero_id": 1040,
+        "hero_name": "mister fantastic",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/mister-fantastic-headbig-0.webp",
+        "matches": 15,
+        "wins": 7,
+        "win_rate": "46.67"
+      },
+      {
+        "hero_id": 1011,
+        "hero_name": "hulk",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/bruce-banner-headbig-0.webp",
+        "matches": 18,
+        "wins": 12,
+        "win_rate": "66.67"
+      },
+      {
+        "hero_id": 1025,
+        "hero_name": "cloak & dagger",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/cloak-dagger-headbig-0.webp",
+        "matches": 221,
+        "wins": 104,
+        "win_rate": "47.06"
+      },
+      {
+        "hero_id": 1046,
+        "hero_name": "adam warlock",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/adam-warlock-headbig-0.webp",
+        "matches": 16,
+        "wins": 9,
+        "win_rate": "56.25"
+      },
+      {
+        "hero_id": 1031,
+        "hero_name": "luna snow",
+        "hero_class": "Strategist",
+        "hero_thumbnail": "/heroes/transformations/luna-snow-headbig-0.webp",
+        "matches": 143,
+        "wins": 68,
+        "win_rate": "47.55"
+      },
+      {
+        "hero_id": 1036,
+        "hero_name": "spider-man",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/spider-man-headbig-0.webp",
+        "matches": 24,
+        "wins": 9,
+        "win_rate": "37.50"
+      },
+      {
+        "hero_id": 1027,
+        "hero_name": "groot",
+        "hero_class": "Vanguard",
+        "hero_thumbnail": "/heroes/transformations/groot-headbig-0.webp",
+        "matches": 83,
+        "wins": 44,
+        "win_rate": "53.01"
+      },
+      {
+        "hero_id": 1030,
+        "hero_name": "moon knight",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/moon-knight-headbig-0.webp",
+        "matches": 94,
+        "wins": 37,
+        "win_rate": "39.36"
+      },
+      {
+        "hero_id": 1024,
+        "hero_name": "hela",
+        "hero_class": "Duelist",
+        "hero_thumbnail": "/heroes/transformations/hela-headbig-0.webp",
+        "matches": 55,
+        "wins": 29,
+        "win_rate": "52.73"
+      }
+    ],
+    "team_mates": [
+      {
+        "player_info": {
+          "nick_name": "Haboobi",
+          "player_icon": "/rivals/players/heads/player_head_31031201.png",
+          "player_uid": 1884521906
+        },
+        "matches": 58,
+        "wins": 32,
+        "win_rate": "55.17"
+      },
+      {
+        "player_info": {
+          "nick_name": "thingamajigger",
+          "player_icon": "/rivals/players/heads/player_head_31050001.png",
+          "player_uid": 1888002857
+        },
+        "matches": 49,
+        "wins": 26,
+        "win_rate": "53.06"
+      },
+      {
+        "player_info": {
+          "nick_name": "Warden,",
+          "player_icon": "/rivals/players/heads/player_head_31020201.png",
+          "player_uid": 580186120
+        },
+        "matches": 40,
+        "wins": 21,
+        "win_rate": "52.50"
+      },
+      {
+        "player_info": {
+          "nick_name": "AznInvazon",
+          "player_icon": "/rivals/players/heads/player_head_31047202.png",
+          "player_uid": 1632402801
+        },
+        "matches": 26,
+        "wins": 15,
+        "win_rate": "57.69"
+      },
+      {
+        "player_info": {
+          "nick_name": "phokinghermes",
+          "player_icon": "/rivals/players/heads/player_head_30000001.png",
+          "player_uid": 911997094
+        },
+        "matches": 20,
+        "wins": 10,
+        "win_rate": "50.00"
+      },
+      {
+        "player_info": {
+          "nick_name": "Nemesis rM",
+          "player_icon": "/rivals/players/heads/player_head_31035001.png",
+          "player_uid": 1133891630
+        },
+        "matches": 20,
+        "wins": 9,
+        "win_rate": "45.00"
+      },
+      {
+        "player_info": {
+          "nick_name": "starrbunger",
+          "player_icon": "/rivals/players/heads/player_head_31043202.png",
+          "player_uid": 1824006858
+        },
+        "matches": 16,
+        "wins": 9,
+        "win_rate": "56.25"
+      },
+      {
+        "player_info": {
+          "nick_name": "piebagel",
+          "player_icon": "/rivals/players/heads/player_head_31047202.png",
+          "player_uid": 1033230230
+        },
+        "matches": 16,
+        "wins": 10,
+        "win_rate": "62.50"
+      },
+      {
+        "player_info": {
+          "nick_name": "Bot - Easy",
+          "player_icon": "/rivals/players/heads/player_head_31050001.png",
+          "player_uid": 667090744
+        },
+        "matches": 16,
+        "wins": 9,
+        "win_rate": "56.25"
+      },
+      {
+        "player_info": {
+          "nick_name": "sethbot",
+          "player_icon": "/rivals/players/heads/player_head_31035203.png",
+          "player_uid": 971542723
+        },
+        "matches": 16,
+        "wins": 9,
+        "win_rate": "56.25"
+      }
+    ],
+    "heroes_ranked": [
+      {
+        "hero_id": 1014,
+        "hero_name": "the punisher",
+        "hero_thumbnail": "/heroes/transformations/the-punisher-headbig-0.webp",
+        "matches": 10,
+        "wins": 3,
+        "mvp": 0,
+        "svp": 1,
+        "kills": 119,
+        "deaths": 35,
+        "assists": 0,
+        "play_time": 7808.238847017288,
+        "damage": 171999.86978769302,
+        "heal": 0,
+        "damage_taken": 120504.30022990704,
+        "main_attack": {
+          "total": 14315,
+          "hits": 3715
+        }
+      },
+      {
+        "hero_id": 1015,
+        "hero_name": "storm",
+        "hero_thumbnail": "/heroes/transformations/storm-headbig-0.webp",
+        "matches": 6,
+        "wins": 2,
+        "mvp": 2,
+        "svp": 0,
+        "kills": 99,
+        "deaths": 22,
+        "assists": 42,
+        "play_time": 4043.5502844154835,
+        "damage": 113881.22707557678,
+        "heal": 0,
+        "damage_taken": 45254.63409733772,
+        "main_attack": {
+          "total": 2772,
+          "hits": 896
+        }
+      },
+      {
+        "hero_id": 1016,
+        "hero_name": "loki",
+        "hero_thumbnail": "/heroes/transformations/loki-headbig-0.webp",
+        "matches": 10,
+        "wins": 2,
+        "mvp": 0,
+        "svp": 1,
+        "kills": 95,
+        "deaths": 49,
+        "assists": 87,
+        "play_time": 6164.630606923252,
+        "damage": 69645.07563447952,
+        "heal": 147519.57247912884,
+        "damage_taken": 74469.12889575958,
+        "main_attack": {
+          "total": 11454,
+          "hits": 5383
+        }
+      },
+      {
+        "hero_id": 1018,
+        "hero_name": "doctor strange",
+        "hero_thumbnail": "/heroes/transformations/doctor-strange-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 5,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 772.3503003697842,
+        "damage": 8359.258208274841,
+        "heal": 0,
+        "damage_taken": 45801.77959012985,
+        "main_attack": {
+          "total": 798,
+          "hits": 335
+        }
+      },
+      {
+        "hero_id": 1020,
+        "hero_name": "mantis",
+        "hero_thumbnail": "/heroes/transformations/mantis-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 0,
+        "damage": 0,
+        "heal": 0,
+        "damage_taken": 0,
+        "main_attack": {
+          "total": 0,
+          "hits": 0
+        }
+      },
+      {
+        "hero_id": 1021,
+        "hero_name": "hawkeye",
+        "hero_thumbnail": "/heroes/transformations/hawkeye-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 161.54182510264218,
+        "damage": 0,
+        "heal": 0,
+        "damage_taken": 0,
+        "main_attack": {
+          "total": 0,
+          "hits": 0
+        }
+      },
+      {
+        "hero_id": 1022,
+        "hero_name": "captain america",
+        "hero_thumbnail": "/heroes/transformations/captain-america-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 1,
+        "kills": 26,
+        "deaths": 5,
+        "assists": 2,
+        "play_time": 880.3685056883842,
+        "damage": 12223.075802057981,
+        "heal": 157,
+        "damage_taken": 27177.80068397522,
+        "main_attack": {
+          "total": 280,
+          "hits": 133
+        }
+      },
+      {
+        "hero_id": 1023,
+        "hero_name": "rocket raccoon",
+        "hero_thumbnail": "/heroes/transformations/rocket-raccoon-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 10,
+        "deaths": 4,
+        "assists": 23,
+        "play_time": 846.2674990445375,
+        "damage": 1982.7745442390442,
+        "heal": 37320.929777383804,
+        "damage_taken": 3784.241050004959,
+        "main_attack": {
+          "total": 771,
+          "hits": 129
+        }
+      },
+      {
+        "hero_id": 1024,
+        "hero_name": "hela",
+        "hero_thumbnail": "/heroes/transformations/hela-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 266.9043046552688,
+        "damage": 3193.2057876586914,
+        "heal": 0,
+        "damage_taken": 1494.4502992630005,
+        "main_attack": {
+          "total": 82,
+          "hits": 34
+        }
+      },
+      {
+        "hero_id": 1025,
+        "hero_name": "cloak & dagger",
+        "hero_thumbnail": "/heroes/transformations/cloak-dagger-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 2,
+        "kills": 2,
+        "deaths": 2,
+        "assists": 2,
+        "play_time": 631.3256831299514,
+        "damage": 4008.900083065033,
+        "heal": 14025.75024318695,
+        "damage_taken": 5682.974552154541,
+        "main_attack": {
+          "total": 422,
+          "hits": 381
+        }
+      },
+      {
+        "hero_id": 1027,
+        "hero_name": "groot",
+        "hero_thumbnail": "/heroes/transformations/groot-headbig-0.webp",
+        "matches": 155,
+        "wins": 84,
+        "mvp": 23,
+        "svp": 9,
+        "kills": 3073,
+        "deaths": 728,
+        "assists": 9,
+        "play_time": 94854.24466705695,
+        "damage": 2160883.175437689,
+        "heal": 0,
+        "damage_taken": 5859583.642780423,
+        "main_attack": {
+          "total": 34289,
+          "hits": 14848
+        }
+      },
+      {
+        "hero_id": 1030,
+        "hero_name": "moon knight",
+        "hero_thumbnail": "/heroes/transformations/moon-knight-headbig-0.webp",
+        "matches": 16,
+        "wins": 10,
+        "mvp": 0,
+        "svp": 6,
+        "kills": 249,
+        "deaths": 70,
+        "assists": 3,
+        "play_time": 14699.27686619386,
+        "damage": 450015.3257316351,
+        "heal": 0,
+        "damage_taken": 167638.98577141762,
+        "main_attack": {
+          "total": 29218,
+          "hits": 6971
+        }
+      },
+      {
+        "hero_id": 1031,
+        "hero_name": "luna snow",
+        "hero_thumbnail": "/heroes/transformations/luna-snow-headbig-0.webp",
+        "matches": 2,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 7,
+        "deaths": 8,
+        "assists": 9,
+        "play_time": 1041.6708543784916,
+        "damage": 5973.275064468384,
+        "heal": 22249.762657523155,
+        "damage_taken": 8860.834769248962,
+        "main_attack": {
+          "total": 1934,
+          "hits": 627
+        }
+      },
+      {
+        "hero_id": 1032,
+        "hero_name": "squirrel girl",
+        "hero_thumbnail": "/heroes/transformations/squirrel-girl-headbig-0.webp",
+        "matches": 4,
+        "wins": 2,
+        "mvp": 0,
+        "svp": 2,
+        "kills": 67,
+        "deaths": 20,
+        "assists": 21,
+        "play_time": 6599.065449563786,
+        "damage": 150061.31696987152,
+        "heal": 0,
+        "damage_taken": 67957.71421551704,
+        "main_attack": {
+          "total": 3575,
+          "hits": 973
+        }
+      },
+      {
+        "hero_id": 1033,
+        "hero_name": "black widow",
+        "hero_thumbnail": "/heroes/transformations/black-widow-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 2,
+        "deaths": 8,
+        "assists": 2,
+        "play_time": 154.40077333152294,
+        "damage": 4306.585502624512,
+        "heal": 0,
+        "damage_taken": 3338.0052404403687,
+        "main_attack": {
+          "total": 47,
+          "hits": 19
+        }
+      },
+      {
+        "hero_id": 1034,
+        "hero_name": "iron man",
+        "hero_thumbnail": "/heroes/transformations/iron-man-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 17,
+        "deaths": 6,
+        "assists": 0,
+        "play_time": 1834.3076988514513,
+        "damage": 31075.035866737366,
+        "heal": 0,
+        "damage_taken": 12782.77540922165,
+        "main_attack": {
+          "total": 341,
+          "hits": 129
+        }
+      },
+      {
+        "hero_id": 1035,
+        "hero_name": "venom",
+        "hero_thumbnail": "/heroes/transformations/venom-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 3,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 1494.9770029517822,
+        "damage": 23246.206493377686,
+        "heal": 0,
+        "damage_taken": 57403.747237205505,
+        "main_attack": {
+          "total": 1922,
+          "hits": 630
+        }
+      },
+      {
+        "hero_id": 1036,
+        "hero_name": "spider-man",
+        "hero_thumbnail": "/heroes/transformations/spider-man-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 252.60107253678143,
+        "damage": 0,
+        "heal": 0,
+        "damage_taken": 0,
+        "main_attack": {
+          "total": 0,
+          "hits": 0
+        }
+      },
+      {
+        "hero_id": 1037,
+        "hero_name": "magneto",
+        "hero_thumbnail": "/heroes/transformations/magneto-headbig-0.webp",
+        "matches": 14,
+        "wins": 5,
+        "mvp": 3,
+        "svp": 2,
+        "kills": 156,
+        "deaths": 54,
+        "assists": 24,
+        "play_time": 12936.968364493921,
+        "damage": 205340.67849349976,
+        "heal": 0,
+        "damage_taken": 632655.4115834236,
+        "main_attack": {
+          "total": 5342,
+          "hits": 2398
+        }
+      },
+      {
+        "hero_id": 1038,
+        "hero_name": "scarlet witch",
+        "hero_thumbnail": "/heroes/transformations/scarlet-witch-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 267.9295329358429,
+        "damage": 671.3575024604797,
+        "heal": 0,
+        "damage_taken": 454.2686548233032,
+        "main_attack": {
+          "total": 95,
+          "hits": 64
+        }
+      },
+      {
+        "hero_id": 1040,
+        "hero_name": "mister fantastic",
+        "hero_thumbnail": "/heroes/transformations/mister-fantastic-headbig-0.webp",
+        "matches": 6,
+        "wins": 3,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 95,
+        "deaths": 35,
+        "assists": 3,
+        "play_time": 3810.5969984531403,
+        "damage": 84228.16846561432,
+        "heal": 0,
+        "damage_taken": 115401.44199109077,
+        "main_attack": {
+          "total": 1268,
+          "hits": 738
+        }
+      },
+      {
+        "hero_id": 1041,
+        "hero_name": "winter soldier",
+        "hero_thumbnail": "/heroes/transformations/winter-soldier-headbig-0.webp",
+        "matches": 88,
+        "wins": 46,
+        "mvp": 2,
+        "svp": 3,
+        "kills": 1497,
+        "deaths": 528,
+        "assists": 462,
+        "play_time": 58786.23405166529,
+        "damage": 1289016.5628156662,
+        "heal": 0,
+        "damage_taken": 914806.3997012675,
+        "main_attack": {
+          "total": 33353,
+          "hits": 11942
+        }
+      },
+      {
+        "hero_id": 1042,
+        "hero_name": "peni parker",
+        "hero_thumbnail": "/heroes/transformations/peni-parker-headbig-0.webp",
+        "matches": 5,
+        "wins": 4,
+        "mvp": 0,
+        "svp": 2,
+        "kills": 59,
+        "deaths": 18,
+        "assists": 2,
+        "play_time": 6426.715426562354,
+        "damage": 147412.17585372925,
+        "heal": 10775.643798828125,
+        "damage_taken": 199869.0317595005,
+        "main_attack": {
+          "total": 5536,
+          "hits": 2133
+        }
+      },
+      {
+        "hero_id": 1043,
+        "hero_name": "star-lord",
+        "hero_thumbnail": "/heroes/transformations/star-lord-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 780.6073261499405,
+        "damage": 8500.643578588963,
+        "heal": 0,
+        "damage_taken": 7714.601618885994,
+        "main_attack": {
+          "total": 3178,
+          "hits": 933
+        }
+      },
+      {
+        "hero_id": 1045,
+        "hero_name": "namor",
+        "hero_thumbnail": "/heroes/transformations/namor-headbig-0.webp",
+        "matches": 26,
+        "wins": 9,
+        "mvp": 1,
+        "svp": 3,
+        "kills": 360,
+        "deaths": 97,
+        "assists": 10,
+        "play_time": 19249.324035795406,
+        "damage": 460452.462451458,
+        "heal": 0,
+        "damage_taken": 219935.8408831358,
+        "main_attack": {
+          "total": 6507,
+          "hits": 2141
+        }
+      },
+      {
+        "hero_id": 1046,
+        "hero_name": "adam warlock",
+        "hero_thumbnail": "/heroes/transformations/adam-warlock-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 135.16637654788792,
+        "damage": 591.3793296813965,
+        "heal": 2000.9750156402588,
+        "damage_taken": 566.9891095161438,
+        "main_attack": {
+          "total": 24,
+          "hits": 9
+        }
+      },
+      {
+        "hero_id": 1049,
+        "hero_name": "wolverine",
+        "hero_thumbnail": "/heroes/transformations/wolverine-headbig-0.webp",
+        "matches": 26,
+        "wins": 17,
+        "mvp": 4,
+        "svp": 3,
+        "kills": 413,
+        "deaths": 101,
+        "assists": 0,
+        "play_time": 19241.46494661458,
+        "damage": 389913.28921699524,
+        "heal": 13727.115107536316,
+        "damage_taken": 346114.26060038805,
+        "main_attack": {
+          "total": 6684,
+          "hits": 3446
+        }
+      },
+      {
+        "hero_id": 1050,
+        "hero_name": "invisible woman",
+        "hero_thumbnail": "/heroes/transformations/invisible-woman-headbig-0.webp",
+        "matches": 5,
+        "wins": 2,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 51,
+        "deaths": 21,
+        "assists": 34,
+        "play_time": 3173.485678240657,
+        "damage": 38091.17673635483,
+        "heal": 90631.03702449799,
+        "damage_taken": 60195.341755867004,
+        "main_attack": {
+          "total": 2706,
+          "hits": 1271
+        }
+      }
+    ],
+    "heroes_unranked": [
+      {
+        "hero_id": 1011,
+        "hero_name": "hulk",
+        "hero_thumbnail": "/heroes/transformations/bruce-banner-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 9,
+        "deaths": 2,
+        "assists": 0,
+        "play_time": 476.47058204747736,
+        "damage": 7347.479217529297,
+        "heal": 0,
+        "damage_taken": 20288.305838108063,
+        "main_attack": {
+          "total": 218,
+          "hits": 108
+        }
+      },
+      {
+        "hero_id": 1014,
+        "hero_name": "the punisher",
+        "hero_thumbnail": "/heroes/transformations/the-punisher-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 75.8359399791807,
+        "damage": 0,
+        "heal": 0,
+        "damage_taken": 0,
+        "main_attack": {
+          "total": 0,
+          "hits": 0
+        }
+      },
+      {
+        "hero_id": 1015,
+        "hero_name": "storm",
+        "hero_thumbnail": "/heroes/transformations/storm-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 14,
+        "deaths": 1,
+        "assists": 3,
+        "play_time": 192.4936896711588,
+        "damage": 6923.699821472168,
+        "heal": 0,
+        "damage_taken": 1652.477593421936,
+        "main_attack": {
+          "total": 222,
+          "hits": 71
+        }
+      },
+      {
+        "hero_id": 1016,
+        "hero_name": "loki",
+        "hero_thumbnail": "/heroes/transformations/loki-headbig-0.webp",
+        "matches": 9,
+        "wins": 3,
+        "mvp": 0,
+        "svp": 2,
+        "kills": 102,
+        "deaths": 41,
+        "assists": 65,
+        "play_time": 4427.370355440304,
+        "damage": 55724.24766230583,
+        "heal": 82444.8182848692,
+        "damage_taken": 47512.869151473045,
+        "main_attack": {
+          "total": 8921,
+          "hits": 3741
+        }
+      },
+      {
+        "hero_id": 1020,
+        "hero_name": "mantis",
+        "hero_thumbnail": "/heroes/transformations/mantis-headbig-0.webp",
+        "matches": 2,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 17,
+        "deaths": 17,
+        "assists": 36,
+        "play_time": 1555.8525278773159,
+        "damage": 10187.969164848328,
+        "heal": 26599.46825695038,
+        "damage_taken": 17070.810946941376,
+        "main_attack": {
+          "total": 827,
+          "hits": 178
+        }
+      },
+      {
+        "hero_id": 1022,
+        "hero_name": "captain america",
+        "hero_thumbnail": "/heroes/transformations/captain-america-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 6,
+        "deaths": 4,
+        "assists": 1,
+        "play_time": 819.3688391204923,
+        "damage": 8654.963171005249,
+        "heal": 28,
+        "damage_taken": 21899.630846500397,
+        "main_attack": {
+          "total": 259,
+          "hits": 140
+        }
+      },
+      {
+        "hero_id": 1023,
+        "hero_name": "rocket raccoon",
+        "hero_thumbnail": "/heroes/transformations/rocket-raccoon-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 263.17697946354747,
+        "damage": 0,
+        "heal": 0,
+        "damage_taken": 0,
+        "main_attack": {
+          "total": 0,
+          "hits": 0
+        }
+      },
+      {
+        "hero_id": 1024,
+        "hero_name": "hela",
+        "hero_thumbnail": "/heroes/transformations/hela-headbig-0.webp",
+        "matches": 3,
+        "wins": 1,
+        "mvp": 1,
+        "svp": 0,
+        "kills": 49,
+        "deaths": 15,
+        "assists": 0,
+        "play_time": 1421.176771555096,
+        "damage": 35057.71880483627,
+        "heal": 0,
+        "damage_taken": 13188.959945678711,
+        "main_attack": {
+          "total": 703,
+          "hits": 296
+        }
+      },
+      {
+        "hero_id": 1026,
+        "hero_name": "black panther",
+        "hero_thumbnail": "/heroes/transformations/black-panther-headbig-0.webp",
+        "matches": 2,
+        "wins": 2,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 28,
+        "deaths": 12,
+        "assists": 0,
+        "play_time": 1036.5878794789314,
+        "damage": 14522.890277013183,
+        "heal": 0,
+        "damage_taken": 10641.820838928223,
+        "main_attack": {
+          "total": 141,
+          "hits": 56
+        }
+      },
+      {
+        "hero_id": 1027,
+        "hero_name": "groot",
+        "hero_thumbnail": "/heroes/transformations/groot-headbig-0.webp",
+        "matches": 2,
+        "wins": 2,
+        "mvp": 1,
+        "svp": 0,
+        "kills": 38,
+        "deaths": 1,
+        "assists": 0,
+        "play_time": 928.0253751147538,
+        "damage": 20833.681432724,
+        "heal": 0,
+        "damage_taken": 38870.7750633955,
+        "main_attack": {
+          "total": 354,
+          "hits": 160
+        }
+      },
+      {
+        "hero_id": 1029,
+        "hero_name": "magik",
+        "hero_thumbnail": "/heroes/transformations/magik-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 3,
+        "assists": 0,
+        "play_time": 462.9908070024103,
+        "damage": 2868.3155670166016,
+        "heal": 0,
+        "damage_taken": 2302.227303504944,
+        "main_attack": {
+          "total": 27,
+          "hits": 16
+        }
+      },
+      {
+        "hero_id": 1030,
+        "hero_name": "moon knight",
+        "hero_thumbnail": "/heroes/transformations/moon-knight-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 18,
+        "deaths": 6,
+        "assists": 0,
+        "play_time": 526.0181916672736,
+        "damage": 11420.297200202942,
+        "heal": 0,
+        "damage_taken": 4355.898132562637,
+        "main_attack": {
+          "total": 839,
+          "hits": 212
+        }
+      },
+      {
+        "hero_id": 1032,
+        "hero_name": "squirrel girl",
+        "hero_thumbnail": "/heroes/transformations/squirrel-girl-headbig-0.webp",
+        "matches": 2,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 2,
+        "kills": 21,
+        "deaths": 11,
+        "assists": 3,
+        "play_time": 1144.5896049831063,
+        "damage": 26704.564281463623,
+        "heal": 0,
+        "damage_taken": 10943.953466653824,
+        "main_attack": {
+          "total": 605,
+          "hits": 186
+        }
+      },
+      {
+        "hero_id": 1035,
+        "hero_name": "venom",
+        "hero_thumbnail": "/heroes/transformations/venom-headbig-0.webp",
+        "matches": 4,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 64,
+        "deaths": 16,
+        "assists": 4,
+        "play_time": 2327.4255357906222,
+        "damage": 37514.63885688782,
+        "heal": 0,
+        "damage_taken": 72700.29744696617,
+        "main_attack": {
+          "total": 3350,
+          "hits": 1074
+        }
+      },
+      {
+        "hero_id": 1036,
+        "hero_name": "spider-man",
+        "hero_thumbnail": "/heroes/transformations/spider-man-headbig-0.webp",
+        "matches": 3,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 27,
+        "deaths": 14,
+        "assists": 0,
+        "play_time": 1473.1426869370043,
+        "damage": 14858.860107421875,
+        "heal": 0,
+        "damage_taken": 13603.269608974457,
+        "main_attack": {
+          "total": 148,
+          "hits": 35
+        }
+      },
+      {
+        "hero_id": 1037,
+        "hero_name": "magneto",
+        "hero_thumbnail": "/heroes/transformations/magneto-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 19,
+        "deaths": 5,
+        "assists": 2,
+        "play_time": 724.1481332052499,
+        "damage": 7336.713517189026,
+        "heal": 0,
+        "damage_taken": 18150.235945224762,
+        "main_attack": {
+          "total": 218,
+          "hits": 98
+        }
+      },
+      {
+        "hero_id": 1038,
+        "hero_name": "scarlet witch",
+        "hero_thumbnail": "/heroes/transformations/scarlet-witch-headbig-0.webp",
+        "matches": 2,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 21,
+        "deaths": 1,
+        "assists": 0,
+        "play_time": 873.4320864863694,
+        "damage": 18845.5428442955,
+        "heal": 0,
+        "damage_taken": 9394.88692510128,
+        "main_attack": {
+          "total": 2957,
+          "hits": 1615
+        }
+      },
+      {
+        "hero_id": 1039,
+        "hero_name": "thor",
+        "hero_thumbnail": "/heroes/transformations/thor-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 6,
+        "deaths": 1,
+        "assists": 0,
+        "play_time": 208.48149171471596,
+        "damage": 6161.53235244751,
+        "heal": 0,
+        "damage_taken": 4850.89652633667,
+        "main_attack": {
+          "total": 72,
+          "hits": 40
+        }
+      },
+      {
+        "hero_id": 1040,
+        "hero_name": "mister fantastic",
+        "hero_thumbnail": "/heroes/transformations/mister-fantastic-headbig-0.webp",
+        "matches": 22,
+        "wins": 13,
+        "mvp": 6,
+        "svp": 5,
+        "kills": 414,
+        "deaths": 110,
+        "assists": 4,
+        "play_time": 9380.658900959417,
+        "damage": 252445.62590122223,
+        "heal": 0,
+        "damage_taken": 292009.7344274521,
+        "main_attack": {
+          "total": 3718,
+          "hits": 2347
+        }
+      },
+      {
+        "hero_id": 1041,
+        "hero_name": "winter soldier",
+        "hero_thumbnail": "/heroes/transformations/winter-soldier-headbig-0.webp",
+        "matches": 29,
+        "wins": 17,
+        "mvp": 10,
+        "svp": 4,
+        "kills": 553,
+        "deaths": 119,
+        "assists": 102,
+        "play_time": 14276.401641217992,
+        "damage": 311595.2353653908,
+        "heal": 0,
+        "damage_taken": 175039.2271282673,
+        "main_attack": {
+          "total": 7614,
+          "hits": 3049
+        }
+      },
+      {
+        "hero_id": 1043,
+        "hero_name": "star-lord",
+        "hero_thumbnail": "/heroes/transformations/star-lord-headbig-0.webp",
+        "matches": 2,
+        "wins": 1,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 9,
+        "deaths": 4,
+        "assists": 0,
+        "play_time": 644.3648287821561,
+        "damage": 6563.4077224731445,
+        "heal": 0,
+        "damage_taken": 3692.4007892608643,
+        "main_attack": {
+          "total": 2787,
+          "hits": 743
+        }
+      },
+      {
+        "hero_id": 1045,
+        "hero_name": "namor",
+        "hero_thumbnail": "/heroes/transformations/namor-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 6,
+        "deaths": 3,
+        "assists": 0,
+        "play_time": 904.706180864945,
+        "damage": 12040.260977745056,
+        "heal": 0,
+        "damage_taken": 7555.657743573189,
+        "main_attack": {
+          "total": 210,
+          "hits": 58
+        }
+      },
+      {
+        "hero_id": 1046,
+        "hero_name": "adam warlock",
+        "hero_thumbnail": "/heroes/transformations/adam-warlock-headbig-0.webp",
+        "matches": 6,
+        "wins": 3,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 48,
+        "deaths": 24,
+        "assists": 29,
+        "play_time": 2683.867644574493,
+        "damage": 27559.533182144165,
+        "heal": 47326.40591907501,
+        "damage_taken": 31927.112235844135,
+        "main_attack": {
+          "total": 965,
+          "hits": 321
+        }
+      },
+      {
+        "hero_id": 1047,
+        "hero_name": "jeff the land shark",
+        "hero_thumbnail": "/heroes/transformations/jeff-the-land-shark-headbig-0.webp",
+        "matches": 1,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 16,
+        "deaths": 7,
+        "assists": 2,
+        "play_time": 659.3688160721213,
+        "damage": 7653.171876907349,
+        "heal": 6934.957898616791,
+        "damage_taken": 10408.428337931633,
+        "main_attack": {
+          "total": 261,
+          "hits": 144
+        }
+      },
+      {
+        "hero_id": 1048,
+        "hero_name": "psylocke",
+        "hero_thumbnail": "/heroes/transformations/psylocke-headbig-0.webp",
+        "matches": 0,
+        "wins": 0,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 89.61797013878822,
+        "damage": 795.069326877594,
+        "heal": 0,
+        "damage_taken": 712.4038848876953,
+        "main_attack": {
+          "total": 268,
+          "hits": 60
+        }
+      },
+      {
+        "hero_id": 1049,
+        "hero_name": "wolverine",
+        "hero_thumbnail": "/heroes/transformations/wolverine-headbig-0.webp",
+        "matches": 2,
+        "wins": 1,
+        "mvp": 2,
+        "svp": 0,
+        "kills": 23,
+        "deaths": 12,
+        "assists": 0,
+        "play_time": 1526.7013185285032,
+        "damage": 36526.623257637024,
+        "heal": 1171.574951171875,
+        "damage_taken": 27661.836639031768,
+        "main_attack": {
+          "total": 579,
+          "hits": 308
+        }
+      },
+      {
+        "hero_id": 1050,
+        "hero_name": "invisible woman",
+        "hero_thumbnail": "/heroes/transformations/invisible-woman-headbig-0.webp",
+        "matches": 3,
+        "wins": 3,
+        "mvp": 0,
+        "svp": 0,
+        "kills": 37,
+        "deaths": 13,
+        "assists": 19,
+        "play_time": 1604.8086257688701,
+        "damage": 17770.005718946457,
+        "heal": 42775.213948726654,
+        "damage_taken": 20500.592422008514,
+        "main_attack": {
+          "total": 1253,
+          "hits": 658
+        }
+      },
+      {
+        "hero_id": 1052,
+        "hero_name": "iron fist",
+        "hero_thumbnail": "/heroes/transformations/iron-fist-headbig-0.webp",
+        "matches": 1,
+        "wins": 1,
+        "mvp": 1,
+        "svp": 0,
+        "kills": 16,
+        "deaths": 0,
+        "assists": 0,
+        "play_time": 455.16139272227883,
+        "damage": 7935.217653274536,
+        "heal": 210.23959350585938,
+        "damage_taken": 5484.113052368164,
+        "main_attack": {
+          "total": 143,
+          "hits": 83
+        }
+      }
+    ],
+    "maps": [
+      {
+        "map_id": 1032,
+        "map_thumbnail": "/rivals/maps/map_1032.png",
+        "matches": 10,
+        "wins": 3,
+        "kills": 132,
+        "deaths": 50,
+        "assists": 19,
+        "play_time": 4735.06943211332
+      },
+      {
+        "map_id": 1034,
+        "map_thumbnail": "/rivals/maps/map_1034.png",
+        "matches": 12,
+        "wins": 9,
+        "kills": 233,
+        "deaths": 69,
+        "assists": 31,
+        "play_time": 7065.087369959801
+      },
+      {
+        "map_id": 1101,
+        "map_thumbnail": "/rivals/maps/map_1101.png",
+        "matches": 12,
+        "wins": 5,
+        "kills": 177,
+        "deaths": 72,
+        "assists": 23,
+        "play_time": 6476.159585034475
+      },
+      {
+        "map_id": 1118,
+        "map_thumbnail": "/rivals/maps/map_1118.png",
+        "matches": 1,
+        "wins": 1,
+        "kills": 17,
+        "deaths": 3,
+        "assists": 5,
+        "play_time": 338.8685655090958
+      },
+      {
+        "map_id": 1148,
+        "map_thumbnail": "/rivals/maps/map_1148.png",
+        "matches": 16,
+        "wins": 10,
+        "kills": 213,
+        "deaths": 61,
+        "assists": 58,
+        "play_time": 7047.116023298353
+      },
+      {
+        "map_id": 1170,
+        "map_thumbnail": "/rivals/maps/map_1170.png",
+        "matches": 9,
+        "wins": 3,
+        "kills": 196,
+        "deaths": 63,
+        "assists": 10,
+        "play_time": 3929.165997609496
+      },
+      {
+        "map_id": 1201,
+        "map_thumbnail": "/rivals/maps/map_1201.png",
+        "matches": 11,
+        "wins": 5,
+        "kills": 188,
+        "deaths": 42,
+        "assists": 21,
+        "play_time": 5542.404696116224
+      },
+      {
+        "map_id": 1230,
+        "map_thumbnail": "/rivals/maps/map_1230.png",
+        "matches": 37,
+        "wins": 20,
+        "kills": 746,
+        "deaths": 251,
+        "assists": 98,
+        "play_time": 27050.440691396594
+      },
+      {
+        "map_id": 1231,
+        "map_thumbnail": "/rivals/maps/map_1231.png",
+        "matches": 42,
+        "wins": 21,
+        "kills": 954,
+        "deaths": 319,
+        "assists": 131,
+        "play_time": 33200.70373577997
+      },
+      {
+        "map_id": 1235,
+        "map_thumbnail": "/rivals/maps/map_1235.png",
+        "matches": 12,
+        "wins": 9,
+        "kills": 234,
+        "deaths": 47,
+        "assists": 54,
+        "play_time": 5553.902238855138
+      },
+      {
+        "map_id": 1236,
+        "map_thumbnail": "/rivals/maps/map_1236.png",
+        "matches": 38,
+        "wins": 19,
+        "kills": 678,
+        "deaths": 235,
+        "assists": 82,
+        "play_time": 21007.75742666237
+      },
+      {
+        "map_id": 1240,
+        "map_thumbnail": "/rivals/maps/map_1240.png",
+        "matches": 12,
+        "wins": 6,
+        "kills": 206,
+        "deaths": 53,
+        "assists": 27,
+        "play_time": 5571.93842722103
+      },
+      {
+        "map_id": 1245,
+        "map_thumbnail": "/rivals/maps/map_1245.png",
+        "matches": 36,
+        "wins": 17,
+        "kills": 949,
+        "deaths": 295,
+        "assists": 86,
+        "play_time": 30770.35203539906
+      },
+      {
+        "map_id": 1267,
+        "map_thumbnail": "/rivals/maps/map_1267.png",
+        "matches": 40,
+        "wins": 18,
+        "kills": 724,
+        "deaths": 282,
+        "assists": 94,
+        "play_time": 28299.54241574183
+      },
+      {
+        "map_id": 1272,
+        "map_thumbnail": "/rivals/maps/map_1272.png",
+        "matches": 50,
+        "wins": 22,
+        "kills": 860,
+        "deaths": 306,
+        "assists": 105,
+        "play_time": 25938.423721574247
+      },
+      {
+        "map_id": 1287,
+        "map_thumbnail": "/rivals/maps/map_1287.png",
+        "matches": 10,
+        "wins": 6,
+        "kills": 133,
+        "deaths": 52,
+        "assists": 53,
+        "play_time": 5241.401026956737
+      },
+      {
+        "map_id": 1288,
+        "map_thumbnail": "/rivals/maps/map_1288.png",
+        "matches": 44,
+        "wins": 24,
+        "kills": 762,
+        "deaths": 279,
+        "assists": 79,
+        "play_time": 22114.178176714107
+      },
+      {
+        "map_id": 1289,
+        "map_thumbnail": "/rivals/maps/map_1289.png",
+        "matches": 6,
+        "wins": 3,
+        "kills": 9,
+        "deaths": 14,
+        "assists": 31,
+        "play_time": 1515.7513416651636
+      },
+      {
+        "map_id": 1290,
+        "map_thumbnail": "/rivals/maps/map_1290.png",
+        "matches": 38,
+        "wins": 25,
+        "kills": 926,
+        "deaths": 294,
+        "assists": 100,
+        "play_time": 32347.537791313604
+      },
+      {
+        "map_id": 1291,
+        "map_thumbnail": "/rivals/maps/map_1291.png",
+        "matches": 53,
+        "wins": 26,
+        "kills": 1305,
+        "deaths": 434,
+        "assists": 162,
+        "play_time": 46585.27898408845
+      }
+    ]
+  }
